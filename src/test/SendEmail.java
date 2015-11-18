@@ -18,7 +18,7 @@ public class SendEmail
       // Assuming you are sending email from localhost
       String host = "localhost";
 
-      // Get system properties
+      // Get system properties  adees hoas
       
       Properties properties = System.getProperties();
 
